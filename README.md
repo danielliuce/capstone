@@ -1,2 +1,8 @@
 # capstone
-This is the repo for which our fourth year capstone project will be created
+
+
+## Authors
+Eesa Aamar
+Dante Crescenzi
+Daniel Liu
+Leon Zhu
