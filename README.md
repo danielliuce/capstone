@@ -2,7 +2,7 @@
 
 
 ## Authors
-Eesa Aamar
-Dante Crescenzi
-Daniel Liu
+Eesa Aamer \
+Dante Crescenzi \
+Daniel Liu \
 Leon Zhu
